@@ -1,3 +1,7 @@
+/*
+* Problem description: https://bit.ly/3wivBQw 
+*/
+
 function jumpingOnClouds(c){
     let jumps = 0;
     let i = 0;

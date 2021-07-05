@@ -1,3 +1,7 @@
+/*
+* Problem description: https://bit.ly/3qOpbYA 
+*/
+
 function sockMerchant(n , ar){
     ar.sort();
     let i = 0;

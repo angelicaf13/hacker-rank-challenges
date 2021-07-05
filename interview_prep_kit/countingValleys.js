@@ -1,3 +1,7 @@
+/*
+* Problem description: https://bit.ly/3hyOiKG 
+*/
+
 function countingValleysTwo(steps, path){
     let level = 0;
     let valleyCount = 0;
