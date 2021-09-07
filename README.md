@@ -1,4 +1,4 @@
-# Hacket Rank Challenges
+# Hacker Rank Challenges
 
 Git repo to keep track of my solutions for the [Hacker Rank](https://www.hackerrank.com/) coding challenges.
 
